@@ -7,7 +7,7 @@
 
 [churntableau]: https://public.tableau.com/views/DatabelCustomerChurnAnalysis_16972128466670/CustomerChurn?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-**Tableau URL:**  [Databel Customer Churn Analysis Dashboard][churntableau]
+**Tableau URL: [Databel Customer Churn Analysis Dashboard][churntableau]**
 
 ### 1. Introduction
 
