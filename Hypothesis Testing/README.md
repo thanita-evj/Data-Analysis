@@ -2,7 +2,8 @@
 
 [hypo]: https://drive.google.com/file/d/1zmdWy9JxULHNLj6S00BpVHo0ttUIG5n0/view?usp=sharing
 
-**(Note:For a comprehensive analysis, please refer to the [Full Report][hypo] document)**
+>[!NOTE]
+**For a comprehensive analysis, please refer to the [Full Report][hypo] document.**
 
 ### 1. Introduction
 
