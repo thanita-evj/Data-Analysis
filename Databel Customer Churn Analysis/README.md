@@ -4,7 +4,7 @@
 
 **(Note: For a comprehensive analysis, please refer to the [Full Report][fullfilechurn1] document)**
 
-[churntableau]: https://public.tableau.com/app/profile/thanita.eiamvijit/vizzes
+[churntableau]: https://public.tableau.com/views/DatabelCustomerChurnAnalysis_16972128466670/CustomerChurn?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 **Tableau URL:**  [Databel Customer Churn Analysis Dashboard][churntableau]
 
