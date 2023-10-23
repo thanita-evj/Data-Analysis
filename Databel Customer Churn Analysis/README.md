@@ -2,7 +2,7 @@
 
 [fullfilechurn1]: https://drive.google.com/file/d/1e2-6YaBLrjPvcZd0XkX6A5-cvBxrC8EI/view?usp=sharing
 
-**(Note: For a comprehensive analysis, please refer to the [Full Report][fullfilechurn1] document)**
+**(Note: For a comprehensive analysis, please refer to this [Full Report][fullfilechurn1] document)**
 
 [churntableau]: https://public.tableau.com/views/DatabelCustomerChurnAnalysis_16972128466670/CustomerChurn?:language=en-GB&:display_count=n&:origin=viz_share_link
 
