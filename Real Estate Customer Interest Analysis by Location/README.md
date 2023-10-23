@@ -2,11 +2,12 @@
 
 [estate]: https://drive.google.com/file/d/1f7I63lzMKuctyy86PK5CueTkxk4ZhMRn/view?usp=sharing
 
-**(Note: For a comprehensive analysis, please refer to this [Full Report][estate] Document.)**
+>[!NOTE]
+**For a comprehensive analysis, please refer to this [Full Report][estate] Document.**
 
 [estatetableau]: https://public.tableau.com/views/RealEstateCustomerInterestAnalysis/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-**Tableau URL:** [Real Estate Customer Interest Analysis Dashboard][estatetableau]
+**Tableau URL: [Real Estate Customer Interest Analysis Dashboard][estatetableau]**
 
 ### 1. Objective 
 
