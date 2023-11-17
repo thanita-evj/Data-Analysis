@@ -1,6 +1,6 @@
 ## Databel Customer Churn Analysis using Tableau
 
-[fullfilechurn1]: https://drive.google.com/file/d/1e2-6YaBLrjPvcZd0XkX6A5-cvBxrC8EI/view?usp=sharing
+[fullfilechurn1]: https://drive.google.com/file/d/1Y-xXLQHMWtyvg70N0qdVavD56_0l834N/view?usp=sharing
 
 >[!NOTE]
 **For a comprehensive analysis, please refer to this [Full Report][fullfilechurn1] document.**
